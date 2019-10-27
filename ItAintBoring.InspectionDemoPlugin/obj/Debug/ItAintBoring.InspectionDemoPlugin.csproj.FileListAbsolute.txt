@@ -1,0 +1,12 @@
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\obj\Debug\ItAintBoring.InspectionDemoPlugin.csproj.CoreCompileInputs.cache
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\obj\Debug\ItAintBoring.InspectionDemoPlugin.csproj.CopyComplete
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\ItAintBoring.InspectionDemo.dll
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\bin\Debug\ItAintBoring.InspectionDemo.pdb
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\obj\Debug\ItAintBoring.InspectionDemo.dll
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\obj\Debug\ItAintBoring.InspectionDemo.pdb
+C:\Work\Projects\ItAintBoring.CanvasInspectionDemo\ItAintBoring.InspectionDemoPlugin\obj\Debug\ItAintBoring.InspectionDemoPlugin.csprojResolveAssemblyReference.cache

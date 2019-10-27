@@ -1,0 +1,8 @@
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\bin\Debug\ItAintBoring.SharePointPLugin.exe
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\bin\Debug\ItAintBoring.SharePointPLugin.pdb
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\obj\Debug\ItAintBoring.SharePointPLugin.csprojResolveAssemblyReference.cache
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\obj\Debug\ItAintBoring.SharePointPLugin.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\obj\Debug\ItAintBoring.SharePointPLugin.csproj.CopyComplete
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\obj\Debug\ItAintBoring.SharePointPLugin.exe
+C:\Users\ashle\source\repos\ItAintBoring.SharePointPLugin\ItAintBoring.SharePointPLugin\obj\Debug\ItAintBoring.SharePointPLugin.pdb
